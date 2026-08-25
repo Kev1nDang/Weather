@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/backend-Java%2017-orange)
 ![React](https://img.shields.io/badge/frontend-React%2018-61DAFB)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 A simple full-stack weather app. Type in a city and state, get the current conditions back — built to practice tying a Java backend to a React frontend over a REST API.
 
@@ -73,7 +72,3 @@ Open the printed local URL (defaults to `http://localhost:5173`). The frontend t
 cd backend
 mvn test
 ```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
